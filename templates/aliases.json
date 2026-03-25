@@ -1,0 +1,92 @@
+{
+  "Envelope": [
+    "Envelope",
+    "Wilen OE O1100",
+    "C Wilen OE O1100",
+    "Envelope - 01100 PM.2120"
+  ],
+  "Version": [
+    "Version",
+    "Wilen Version B2001",
+    "A Wilen Version B2001",
+    "Version - B2001"
+  ],
+  "Version Key": [
+    "Version Key",
+    "R"
+  ],
+  "IHD": [
+    "IHD",
+    "O"
+  ],
+  "IHW": [
+    "IHW"
+  ],
+  "NCOA": [
+    "NCOA"
+  ],
+  "Segment ID": [
+    "Segment ID"
+  ],
+  "SEGMENT": [
+    "SEGMENT"
+  ],
+  "ORDERED BY": [
+    "ORDERED BY"
+  ],
+  "JOB TYPE": [
+    "JOB TYPE"
+  ],
+  "KIT CODE": [
+    "KIT CODE"
+  ],
+  "POSTAL_OP": [
+    "POSTAL_OP"
+  ],
+  "Offer Code 1": [
+    "Offer Code 1"
+  ],
+  "Offer Code 2": [
+    "Offer Code 2"
+  ],
+  "Offer Code 3": [
+    "Offer Code 3"
+  ],
+  "Phone Number": [
+    "Phone Number"
+  ],
+  "Package": [
+    "Package"
+  ],
+  "Store ID": [
+    "Store ID"
+  ],
+  "Friendly Name": [
+    "Friendly Name"
+  ],
+  "Client Accounting Code": [
+    "Client Accounting Code"
+  ],
+  "Permit": [
+    "Permit",
+    "PERMIT"
+  ],
+  "USPS ID CLICK URL": [
+    "USPS ID CLICK URL"
+  ],
+  "Add-On 1 Informed Delivery": [
+    "Add-On 1 Informed Delivery"
+  ],
+  "ADD ON INFORMED DELIVERY": [
+    "ADD ON INFORMED DELIVERY"
+  ],
+  "USPS ID RA Image": [
+    "USPS ID RA Image"
+  ],
+  "USPS RA IMAGE": [
+    "USPS RA IMAGE"
+  ],
+  "POSTAL INCENTIVE": [
+    "POSTAL INCENTIVE"
+  ]
+}
