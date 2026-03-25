@@ -1,0 +1,23 @@
+
+import re
+
+def norm(x):
+    x = str(x).lower().strip()
+    x = re.sub(r'[^a-z0-9]', '', x)
+    return x
+
+def reorder_dataframe(df, desired):
+    actual = list(df.columns)
+    map_norm = {norm(c):c for c in actual}
+
+    matched = []
+    for d in desired:
+        key = norm(d)
+        if key in map_norm:
+            matched.append(map_norm[key])
+
+    remaining = [c for c in actual if c not in matched]
+
+    final = matched + remaining
+
+    return df[final]
